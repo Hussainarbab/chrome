@@ -1,0 +1,15 @@
+D:\course\google-chrome\MyApp\bin\Debug\net8.0\MyApp.exe
+D:\course\google-chrome\MyApp\bin\Debug\net8.0\MyApp.deps.json
+D:\course\google-chrome\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+D:\course\google-chrome\MyApp\bin\Debug\net8.0\MyApp.dll
+D:\course\google-chrome\MyApp\bin\Debug\net8.0\MyApp.pdb
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.dll
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.pdb
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+D:\course\google-chrome\MyApp\obj\Debug\net8.0\ref\MyApp.dll
